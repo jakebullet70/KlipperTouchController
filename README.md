@@ -27,7 +27,7 @@ Theme color builder
   
 
 ### Project Status
-Project was released for Octoprint in 2022, release for Klipper should be in mid to late April 2023 *depending on the amount of shelling in the city *
+Project was released for Octoprint in 2022, release for Klipper should be in mid to late April 2023 *depending on the amount of shelling in the city*  
 
 Written in the middle of a war under occupation in Kherson Ukraine. Continued after liberation and under shelling... Slava Ukraini!   
 Written in [B4X](https://www.b4x.com/)  
